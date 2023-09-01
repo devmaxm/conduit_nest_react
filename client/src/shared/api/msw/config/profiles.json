@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Jake",
+    "bio": "I work at statefarm",
+    "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+    "followedBy": []
+  },
+  {
+    "username": "Anah Benešová",
+    "bio": "I work at statefarm",
+    "image": "https://api.realworld.io/images/demo-avatar.png",
+    "followedBy": ["Jake"]
+  },
+  {
+    "username": "John Doe",
+    "bio": "I work at statefarm",
+    "image": "https://api.realworld.io/images/demo-avatar.png",
+    "followedBy": []
+  }
+]

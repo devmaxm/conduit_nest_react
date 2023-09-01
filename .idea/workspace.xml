@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad82a833-1509-4988-b6a8-3ec1e3fb8e21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nest-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realworld-react-fsd/src/entities/article/ui/article-meta/ArticleMeta.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/realworld-react-fsd/src/entities/article/ui/article-meta/ArticleMeta.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realworld-react-fsd/src/shared/api/realworld/Api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/realworld-react-fsd/src/shared/api/realworld/Api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/profile/profile.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/profile/profile.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/seeds/1688628843889-SeedDB.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/seeds/1688628843889-SeedDB.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/users/users.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/users/users.entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/comments.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/dto/articlesQuery.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/dto/createArticle.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/dto/createComment.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/dto/updateArticle.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/interfaces/articleResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/interfaces/articlesResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/interfaces/commentResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/interfaces/commentsResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/env.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/orm/orm.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/orm/orm.dataSource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ormSeed/ormSeed.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/ormSeed/ormSeed.dataSource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/expressRequest.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688466892395-CreateUser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688466986579-FixUserColumnName.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688573861390-CreateArticleEntity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688574347343-SetDefaultValueToFavCountInArticleEntity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688628843889-CreateUserFavoriteArticlesRelation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688723072821-CreateFollowEntity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/migrations/1688729031081-CreateCommentEntity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/follow.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/interfaces/profile.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/interfaces/profileResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/profile.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/profile.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/profile.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seeds/1688628843889-SeedDB.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/decorators/user.decorator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/dto/createUser.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/dto/login.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/dto/updateUser.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/guards/jwt.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/interfaces/user.type.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/interfaces/userResponse.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/middlewares/jwtAuth.middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/jest-e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2S3K7k7p7zk4Irh9G36nm8QTz2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/it/Projects/work/tech_shop/shop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "ts.external.directory.path": "C:\\it\\Projects\\c\\medium_nest_api\\realworld-react-fsd\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\it\Projects\work\medium_nest_api\src\seeds" />
+      <recent name="C:\it\Projects\work\medium_nest_api\src\config\ormSeed" />
+      <recent name="C:\it\Projects\work\medium_nest_api\src\articles\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\it\Projects\work\medium_nest_api\src\articles" />
+      <recent name="C:\it\Projects\work\medium_nest_api\src\config\orm" />
+      <recent name="C:\it\Projects\work\realworld_api_course\src\config" />
+      <recent name="C:\it\Projects\work\realworld_api_course\src" />
+      <recent name="C:\it\Projects\work\realworld_api_course\src\test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad82a833-1509-4988-b6a8-3ec1e3fb8e21" name="Changes" comment="" />
+      <created>1688369663813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688369663813</updated>
+      <workItem from="1688369669111" duration="869000" />
+      <workItem from="1688380463384" duration="7205000" />
+      <workItem from="1688461990043" duration="7409000" />
+      <workItem from="1688536747736" duration="18489000" />
+      <workItem from="1688623478008" duration="7002000" />
+      <workItem from="1688712806171" duration="11967000" />
+      <workItem from="1688982704875" duration="663000" />
+      <workItem from="1691068074461" duration="115000" />
+      <workItem from="1693210101118" duration="1371000" />
+      <workItem from="1693489743197" duration="215000" />
+      <workItem from="1693548667450" duration="4530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
