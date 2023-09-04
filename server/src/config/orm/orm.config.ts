@@ -10,7 +10,7 @@ const typeormConfig: PostgresConnectionOptions = {
   database: DB_NAME,
   entities: [__dirname + "/../../**/*.entity{.ts,.js}"],
   synchronize: false,
-  migrations: [__dirname + '/../../migrations/**/*{.ts,.js}']
+  migrations: [__dirname + '/../../migrations/**/*{.ts,.js}'],
 };
 
 export default typeormConfig;

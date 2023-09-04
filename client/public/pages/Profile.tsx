@@ -83,10 +83,10 @@ export default function ProfilePage(props: ProfileProps) {
 						<div class="articles-toggle">
 							<ul class="nav nav-pills outline-active">
 								<li class="nav-item">
-									<Link href={`/@${user.username}`}>My Articles</Link>
+									<Link href={`/@${username}`}>My Articles</Link>
 								</li>
 								<li class="nav-item">
-									<Link href={`/@${user.username}/favorites`}>Favorited Articles</Link>
+									<Link href={`/@${username}/favorites`}>Favorited Articles</Link>
 								</li>
 							</ul>
 						</div>
