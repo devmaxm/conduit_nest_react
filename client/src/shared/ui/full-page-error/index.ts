@@ -1,1 +1,0 @@
-export { FullPageError } from './FullPageError';

@@ -32,6 +32,7 @@ export class UsersService {
 
     const newUser = new UserEntity();
     Object.assign(newUser, createUserDto);
+    newUser.image = "default_user_avatar.png"
     return await this.usersRepository.save(newUser);
   }
 
